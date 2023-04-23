@@ -1,0 +1,24 @@
+{
+  "name": "VRCImmersiveImmobilize",
+  "author": "I5UCC",
+  "packages": {
+    "com.i5ucc.vrcimmersiveimmobilize": {
+      "versions": {
+        "0.1.0": {
+		  "name": "com.i5ucc.vrcimmersiveimmobilize",
+		  "displayName": "VRCImmersiveImmobilize",
+		  "version": "0.1.0",
+		  "unity": "2019.4",
+		  "description": "Automatically immobilizing an avatar, when the sticks moving.",
+		  "dependencies": {},
+		  "gitDependencies": {},
+		  "vpmDependencies": {},
+		  "legacyFolders": {},
+		  "legacyFiles": {},
+		  "hideInEditor": false,
+		  "url": "https://github.com/I5UCC/VRCImmersiveImmobilize/releases/download/v0.1.0/VRCImmersiveImmobilize_v0.1.0_VCC.zip"
+        }
+      }
+    }
+  }
+}
