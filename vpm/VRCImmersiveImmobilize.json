@@ -9,7 +9,7 @@
 		  "displayName": "VRCImmersiveImmobilize",
 		  "version": "0.1.0",
 		  "unity": "2019.4",
-		  "description": "Automatically immobilizing an avatar, when the sticks moving.",
+		  "description": "Workaround for the remote IK jitter issue and allows entering objects/walls in VRChat when using full body tracking.",
 		  "dependencies": {},
 		  "gitDependencies": {},
 		  "vpmDependencies": {},
