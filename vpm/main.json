@@ -24,24 +24,10 @@
     },
 	"com.i5ucc.vrcimmersiveimmobilize": {
       "versions": {
-        "0.1.0": {
-		  "name": "com.i5ucc.vrcimmersiveimmobilize",
-		  "displayName": "VRCImmersiveImmobilize",
-		  "version": "0.1.0",
-		  "unity": "2019.4",
-		  "description": "Workaround for the remote IK jitter issue and allows entering objects/walls in VRChat when using full body tracking.",
-		  "dependencies": {},
-		  "gitDependencies": {},
-		  "vpmDependencies": {},
-		  "legacyFolders": {},
-		  "legacyFiles": {},
-		  "hideInEditor": false,
-		  "url": "https://github.com/I5UCC/VRCImmersiveImmobilize/releases/download/v0.1.0/VRCImmersiveImmobilize_v0.1.0_VCC.zip"
-        },
-		"0.1.1": {
+        "0.2.0": {
 			"name": "com.i5ucc.vrcimmersiveimmobilize",
 			"displayName": "VRCImmersiveImmobilize",
-			"version": "0.1.1",
+			"version": "0.2.0",
 			"unity": "2019.4",
 			"description": "Workaround for the remote IK jitter issue and allows entering objects/walls in VRChat when using full body tracking.",
 			"dependencies": {},
@@ -50,7 +36,7 @@
 			"legacyFolders": {},
 			"legacyFiles": {},
 			"hideInEditor": false,
-			"url": "https://github.com/I5UCC/VRCImmersiveImmobilize/releases/download/v0.1.1/VRCImmersiveImmobilize_v0.1.1_VCC.zip"
+			"url": "https://github.com/I5UCC/VRCImmersiveImmobilize/releases/download/v0.2.0/VRCImmersiveImmobilize_v0.2.0_VCC.zip"
 		}
       }
     }
