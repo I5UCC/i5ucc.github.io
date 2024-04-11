@@ -42,7 +42,7 @@
 		},
 		"com.i5ucc.vrcmultiuploader": {
 			"versions": {
-				"0.2.0": {
+				"0.1.0": {
 					"name": "com.i5ucc.vrcmultiuploader",
 					"displayName": "VRCMultiUploader",
 					"version": "0.1.0",
