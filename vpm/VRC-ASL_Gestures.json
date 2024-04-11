@@ -1,26 +1,26 @@
 {
-  "name": "VRC-ASL_Gestures",
-  "author": "I5UCC",
-  "packages": {
-    "com.i5ucc.vrcaslgestures": {
-      "versions": {
-        "2.1.1": {
-		  "name": "com.i5ucc.vrcaslgestures",
-		  "displayName": "VRC-ASL_Gestures",
-		  "version": "2.1.1",
-		  "unity": "2019.4",
-		  "description": "Gesture AnimationControllers for VRChat 3.0 Avatars to be able to do more ASL Handshapes.",
-		  "dependencies": {},
-		  "gitDependencies": {},
-		  "vpmDependencies": {},
-		  "legacyFolders": {
-			"Assets\\VRC-ASL_Gestures": ""
-		  },
-		  "legacyFiles": {},
-		  "hideInEditor": false,
-		  "url": "https://github.com/I5UCC/VRC-ASL_Gestures/releases/download/v2.1.1-Hotfix/VRC-ASL_Gestures_v2.1.1-Hotfix_VCC.zip"
-        }
-      }
-    }
-  }
+	"name": "VRC-ASL_Gestures",
+	"author": "I5UCC",
+	"packages": {
+		"com.i5ucc.vrcaslgestures": {
+			"versions": {
+				"2.1.1": {
+					"name": "com.i5ucc.vrcaslgestures",
+					"displayName": "VRC-ASL_Gestures",
+					"version": "2.1.1",
+					"unity": "2019.4",
+					"description": "Gesture AnimationControllers for VRChat 3.0 Avatars to be able to do more ASL Handshapes.",
+					"dependencies": {},
+					"gitDependencies": {},
+					"vpmDependencies": {},
+					"legacyFolders": {
+						"Assets\\VRC-ASL_Gestures": ""
+					},
+					"legacyFiles": {},
+					"hideInEditor": false,
+					"url": "https://github.com/I5UCC/VRC-ASL_Gestures/releases/download/v2.1.1-Hotfix/VRC-ASL_Gestures_v2.1.1-Hotfix_VCC.zip"
+				}
+			}
+		}
+	}
 }
