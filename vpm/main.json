@@ -1,44 +1,62 @@
 {
-  "name": "I5UCC's repo",
-  "author": "I5UCC",
-  "packages": {
-    "com.i5ucc.vrcaslgestures": {
-      "versions": {
-        "2.1.1": {
-		  "name": "com.i5ucc.vrcaslgestures",
-		  "displayName": "VRC-ASL_Gestures",
-		  "version": "2.1.1",
-		  "unity": "2019.4",
-		  "description": "Gesture AnimationControllers for VRChat 3.0 Avatars to be able to do more ASL Handshapes.",
-		  "dependencies": {},
-		  "gitDependencies": {},
-		  "vpmDependencies": {},
-		  "legacyFolders": {
-			"Assets\\VRC-ASL_Gestures": ""
-		  },
-		  "legacyFiles": {},
-		  "hideInEditor": false,
-		  "url": "https://github.com/I5UCC/VRC-ASL_Gestures/releases/download/v2.1.1-Hotfix/VRC-ASL_Gestures_v2.1.1-Hotfix_VCC.zip"
-        }
-      }
-    },
-	"com.i5ucc.vrcimmersiveimmobilize": {
-      "versions": {
-        "0.2.0": {
-			"name": "com.i5ucc.vrcimmersiveimmobilize",
-			"displayName": "VRCImmersiveImmobilize",
-			"version": "0.2.0",
-			"unity": "2019.4",
-			"description": "Workaround for the remote IK jitter issue and allows entering objects/walls in VRChat when using full body tracking.",
-			"dependencies": {},
-			"gitDependencies": {},
-			"vpmDependencies": {},
-			"legacyFolders": {},
-			"legacyFiles": {},
-			"hideInEditor": false,
-			"url": "https://github.com/I5UCC/VRCImmersiveImmobilize/releases/download/v0.2.0/VRCImmersiveImmobilize_v0.2.0_VCC.zip"
+	"name": "I5UCC's repo",
+	"author": "I5UCC",
+	"packages": {
+		"com.i5ucc.vrcaslgestures": {
+			"versions": {
+				"2.1.1": {
+					"name": "com.i5ucc.vrcaslgestures",
+					"displayName": "VRC-ASL_Gestures",
+					"version": "2.1.1",
+					"unity": "2019.4",
+					"description": "Gesture AnimationControllers for VRChat 3.0 Avatars to be able to do more ASL Handshapes.",
+					"dependencies": {},
+					"gitDependencies": {},
+					"vpmDependencies": {},
+					"legacyFolders": {
+						"Assets\\VRC-ASL_Gestures": ""
+					},
+					"legacyFiles": {},
+					"hideInEditor": false,
+					"url": "https://github.com/I5UCC/VRC-ASL_Gestures/releases/download/v2.1.1-Hotfix/VRC-ASL_Gestures_v2.1.1-Hotfix_VCC.zip"
+				}
+			}
+		},
+		"com.i5ucc.vrcimmersiveimmobilize": {
+			"versions": {
+				"0.2.0": {
+					"name": "com.i5ucc.vrcimmersiveimmobilize",
+					"displayName": "VRCImmersiveImmobilize",
+					"version": "0.2.0",
+					"unity": "2019.4",
+					"description": "Workaround for the remote IK jitter issue and allows entering objects/walls in VRChat when using full body tracking.",
+					"dependencies": {},
+					"gitDependencies": {},
+					"vpmDependencies": {},
+					"legacyFolders": {},
+					"legacyFiles": {},
+					"hideInEditor": false,
+					"url": "https://github.com/I5UCC/VRCImmersiveImmobilize/releases/download/v0.2.0/VRCImmersiveImmobilize_v0.2.0_VCC.zip"
+				}
+			}
+		},
+		"com.i5ucc.vrcmultiuploader": {
+			"versions": {
+				"0.2.0": {
+					"name": "com.i5ucc.vrcmultiuploader",
+					"displayName": "VRCMultiUploader",
+					"version": "0.1.0",
+					"unity": "2022.3",
+					"description": "Tool for uploading Multiple VRChat Avatars at once.",
+					"dependencies": {},
+					"gitDependencies": {},
+					"vpmDependencies": {},
+					"legacyFolders": {},
+					"legacyFiles": {},
+					"hideInEditor": false,
+					"url": "https://github.com/I5UCC/VRCMultiUploader/releases/download/v0.1.0/VRCMultiUploader_VCC_v0.1.0.zip"
+				}
+			}
 		}
-      }
-    }
-  }
+	}
 }
