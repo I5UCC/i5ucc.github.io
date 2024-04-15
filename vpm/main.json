@@ -60,10 +60,10 @@
 		},
 		"com.i5ucc.tools": {
 			"versions": {
-				"0.1.1": {
+				"0.1.2": {
 					"name": "com.i5ucc.tools",
 					"displayName": "I5Tools",
-					"version": "0.1.1",
+					"version": "0.1.2",
 					"unity": "2022.3",
 					"description": "Just a few things that make Avatar Creation workflow a bit easier.",
 					"dependencies": {},
@@ -72,7 +72,7 @@
 					"legacyFolders": {},
 					"legacyFiles": {},
 					"hideInEditor": false,
-					"url": "https://github.com/I5UCC/I5UnityTools/releases/download/v0.1.1/com.i5ucc.tools-0.1.1.zip"
+					"url": "https://github.com/I5UCC/I5UnityTools/releases/download/v0.1.2/com.i5ucc.tools-0.1.2.zip"
 				}
 			}
 		}
