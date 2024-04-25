@@ -42,10 +42,10 @@
 		},
 		"com.i5ucc.vrcmultiuploader": {
 			"versions": {
-				"0.1.4": {
+				"0.1.5": {
 					"name": "com.i5ucc.vrcmultiuploader",
 					"displayName": "VRCMultiUploader",
-					"version": "0.1.4",
+					"version": "0.1.5",
 					"unity": "2022.3",
 					"description": "Tool for uploading Multiple VRChat Avatars at once.",
 					"dependencies": {},
@@ -54,7 +54,7 @@
 					"legacyFolders": {},
 					"legacyFiles": {},
 					"hideInEditor": false,
-					"url": "https://github.com/I5UCC/VRCMultiUploader/releases/download/v0.1.4/com.i5ucc.vrcmultiuploader-0.1.4.zip"
+					"url": "https://github.com/I5UCC/VRCMultiUploader/releases/download/v0.1.5/com.i5ucc.vrcmultiuploader-0.1.5.zip"
 				}
 			}
 		},
